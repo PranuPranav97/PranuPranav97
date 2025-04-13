@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranav Shastri</h1>
+<h1 align="center">Hi 👋, I'm Pranav Shastri 👍</h1>
 <h3 align="center">👋 Hi, I'm Buddy – a passionate SaaS enthusiast and open-source contributor. I love building scalable, innovative solutions. When I'm not coding, you'll find me contributing to projects that push the boundaries of web development. Let’s connect and create something amazing!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranupranav97&label=Profile%20views&color=0e75b6&style=flat" alt="pranupranav97" /> </p>
